@@ -52,10 +52,15 @@ Run the program with a map file:
 ./fdf maps/42.fdf
 ```
 
+## Example
+
+Here's an example of the FDF program rendering the `42.fdf` map:
+
+![FDF Example - 42.fdf](images/42.png)
+
 ### Controls
 
 - **ESC** - Exit the program
-- **Close button** - Exit the program
 
 ### Available Make Rules
 
